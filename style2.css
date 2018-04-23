@@ -1,0 +1,51 @@
+body {
+    background-color:#D8B74D;
+	margin-top:0px;
+}
+
+.body1 {
+    margin-left:165px ;
+	margin-right:195px;
+    background-color:white;
+	position:absolute;
+	height:auto;	
+	width:auto;
+	
+}
+
+img {
+ padding:5px;
+} 
+
+.vertical-menu {
+    width: 200px;
+	float:left;
+	display:block;
+}
+
+.vertical-menu a {
+    background-color: #012D58;
+    color: white;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    border:1px solid #4997D0;
+    border-width:thin;
+}
+
+.vertical-menu a:hover {
+    color: black;
+}
+
+.vertical-menu a.active {
+    background-color: #d8f0f3;
+    color:black;
+}
+
+.borde {
+border:1px solid black;
+margin-left:210px;
+margin-right:5px;
+padding:2px;
+Height:68%;
+}
